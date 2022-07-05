@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash s
 set -o errexit #abort if any command fails
 me=$(basename "$0")
 
